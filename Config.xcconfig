@@ -1,0 +1,3 @@
+// Config.xcconfig
+PRODUCT_BUNDLE_IDENTIFIER = dev.yannick.HelloEditor
+DEVELOPMENT_TEAM = 
